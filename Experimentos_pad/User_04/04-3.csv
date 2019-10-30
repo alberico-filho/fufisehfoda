@@ -1,0 +1,14 @@
+No.,Time,Source,Destination,Protocol,Length,Info,TBP
+546503,1347.060443,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question",3.012924000000112
+1229606,2608.528833,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",1261.4683899999998
+1230255,2620.56135,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",12.032517000000098
+1314080,4294.331593999998,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",1673.7702439999985
+1314127,4295.070654,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,0.7390600000017002
+1314130,4295.249384000002,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",0.17873000000145112
+1314174,4297.075574,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,1.82618999999886
+1358512,4742.698131,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",445.6225569999997
+1358586,4743.706376,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",1.0082449999999878
+1358803,4746.719428,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",3.0130520000002434
+1359883,4755.734936,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",9.015507999999501
+1363172,4784.1853740000015,192.168.0.4,224.0.0.251,MDNS,112,"Standard query 0x0000 PTR _sleep-proxy._udp.local, ""QU"" question OPT",28.450438000001675
+1363221,4785.108168,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,0.9227939999982482
