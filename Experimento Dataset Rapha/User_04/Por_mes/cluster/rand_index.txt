@@ -1,3 +1,8 @@
+DuracaodaSessao
 oct - nov: 0.0
-nov - dez: -0.010891763104152486
+nov - dez: -0.034047329529510804
 oct - dez: 0.0
+Velocidademediadenavegacao
+oct - nov: -0.009445100354191261
+nov - dez: -0.024427480916030534
+oct - dez: -0.010746910263299301
