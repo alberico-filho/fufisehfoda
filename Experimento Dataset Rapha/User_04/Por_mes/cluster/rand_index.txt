@@ -1,3 +1,7 @@
+Silhueta
+oct - nov: 0.0
+nov - dez: -0.010891763104152486
+oct - dez: 0.0
 DuracaodaSessao
 oct - nov: 0.0
 nov - dez: -0.034047329529510804
