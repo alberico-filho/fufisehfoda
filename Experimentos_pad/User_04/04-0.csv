@@ -1,14 +1,14 @@
-No.,Time,Source,Destination,Protocol,Length,Info,TBP
-163181,528.849155,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",0.0
-164445,532.868666,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",4.019510999999966
-169811,539.170845,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QU"" question PTR _airplay._tcp.local, ""QU"" question OPT",6.302179000000024
-170290,540.178722,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT",1.0078770000000077
-170973,541.985011,192.168.0.4,224.0.0.251,MDNS,159,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT",1.8062889999999925
-175881,550.9829990000002,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT",8.997988000000191
-183602,569.02539,192.168.0.4,224.0.0.251,MDNS,159,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT",18.04239099999984
-210558,621.276404,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QU"" question PTR _airplay._tcp.local, ""QU"" question",52.251013999999934
-210943,622.279358,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question",1.0029540000000452
-212174,625.29614,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question",3.0167820000000347
-216326,634.311005,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question",9.014864999999986
-221469,650.18553,192.168.0.4,224.0.0.251,MDNS,130,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question",15.874524999999947
-256466,731.353968,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question",81.16843800000005
+No.,Time,Source,Destination,Protocol,Length,Info
+163181,528.849155,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT"
+164445,532.868666,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+169811,539.170845,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QU"" question PTR _airplay._tcp.local, ""QU"" question OPT"
+170290,540.178722,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT"
+170973,541.985011,192.168.0.4,224.0.0.251,MDNS,159,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT"
+175881,550.9829990000002,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT"
+183602,569.02539,192.168.0.4,224.0.0.251,MDNS,159,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question OPT"
+210558,621.276404,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QU"" question PTR _airplay._tcp.local, ""QU"" question"
+210943,622.279358,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question"
+212174,625.29614,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question"
+216326,634.311005,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question"
+221469,650.18553,192.168.0.4,224.0.0.251,MDNS,130,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question"
+256466,731.353968,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _raop._tcp.local, ""QM"" question PTR _airplay._tcp.local, ""QM"" question"

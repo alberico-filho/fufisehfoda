@@ -1,14 +1,14 @@
-No.,Time,Source,Destination,Protocol,Length,Info,TBP
-264960,752.456421,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",21.10245299999997
-266561,753.008332,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,0.5519110000000182
-266658,753.204111,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",0.1957790000000159
-267323,755.009067,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,1.8049559999999476
-424177,1063.650091,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",308.641024
-424383,1064.662813,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",1.012722000000167
-427246,1067.693064,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",3.0302509999999074
-517991,1272.278595,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT",204.58553099999997
-518214,1273.002296,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,0.7237010000001192
-518302,1273.280765,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",0.2784689999998591
-519067,1275.969922,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources,2.6891570000000233
-519201,1276.289611,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",0.3196889999999257
-525721,1285.305026,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",9.015415000000075
+No.,Time,Source,Destination,Protocol,Length,Info
+264960,752.456421,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT"
+266561,753.008332,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources
+266658,753.204111,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+267323,755.009067,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources
+424177,1063.650091,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT"
+424383,1064.662813,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+427246,1067.693064,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+517991,1272.278595,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QU"" question PTR _sleep-proxy._udp.local, ""QU"" question OPT"
+518214,1273.002296,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources
+518302,1273.280765,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+519067,1275.969922,192.168.0.4,224.0.0.22,IGMPv3,54,Membership Report / Join group 224.0.0.251 for any sources
+519201,1276.289611,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+525721,1285.305026,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"

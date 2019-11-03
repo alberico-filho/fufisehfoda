@@ -1,14 +1,14 @@
-No.,Time,Source,Destination,Protocol,Length,Info,TBP
-525807,1285.469782,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 ,0.1647560000001249
-525809,1285.560363,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QU"" question PTR _233637DE._sub._googlecast._tcp.local, ""QU"" question OPT",0.0905809999999292
-525812,1285.575512,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 ,0.01514899999983754
-525842,1285.677539,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 ,0.10202700000013463
-526054,1286.572845,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QM"" question PTR _233637DE._sub._googlecast._tcp.local, ""QM"" question OPT",0.8953059999998914
-528916,1289.57483,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QM"" question PTR _233637DE._sub._googlecast._tcp.local, ""QM"" question OPT",3.0019850000001043
-533936,1299.275833,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QU"" question PTR _raop._tcp.local, ""QU"" question OPT",9.7010029999999
-534281,1300.28272,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT",1.0068870000000059
-535051,1303.304884,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT",3.0221639999999748
-536950,1312.32485,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT",9.019966000000068
-536972,1312.50286,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT",0.1780100000000857
-545365,1343.037057,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _airplay._tcp.local, ""QU"" question PTR _raop._tcp.local, ""QU"" question",30.53419699999995
-545683,1344.047519,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question",1.0104619999999611
+No.,Time,Source,Destination,Protocol,Length,Info
+525807,1285.469782,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 
+525809,1285.560363,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QU"" question PTR _233637DE._sub._googlecast._tcp.local, ""QU"" question OPT"
+525812,1285.575512,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 
+525842,1285.677539,192.168.0.4,239.255.255.250,SSDP,167,M-SEARCH * HTTP/1.1 
+526054,1286.572845,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QM"" question PTR _233637DE._sub._googlecast._tcp.local, ""QM"" question OPT"
+528916,1289.57483,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _googlecast._tcp.local, ""QM"" question PTR _233637DE._sub._googlecast._tcp.local, ""QM"" question OPT"
+533936,1299.275833,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QU"" question PTR _raop._tcp.local, ""QU"" question OPT"
+534281,1300.28272,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT"
+535051,1303.304884,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT"
+536950,1312.32485,192.168.0.4,224.0.0.251,MDNS,120,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question OPT"
+536972,1312.50286,192.168.0.4,224.0.0.251,MDNS,132,"Standard query 0x0000 PTR _homekit._tcp.local, ""QM"" question PTR _sleep-proxy._udp.local, ""QM"" question OPT"
+545365,1343.037057,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _airplay._tcp.local, ""QU"" question PTR _raop._tcp.local, ""QU"" question"
+545683,1344.047519,192.168.0.4,224.0.0.251,MDNS,91,"Standard query 0x0000 PTR _airplay._tcp.local, ""QM"" question PTR _raop._tcp.local, ""QM"" question"

@@ -1,4 +1,4 @@
-No.,Time,Source,Destination,Protocol,Length,Info,TBP
-1348650,4659.9025,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources,23.936147999999772
-1364810,4804.739088,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources,144.83658800000012
-1378806,4958.786582,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources,154.04749399999946
+No.,Time,Source,Destination,Protocol,Length,Info
+1348650,4659.9025,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources
+1364810,4804.739088,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources
+1378806,4958.786582,192.168.0.5,224.0.0.22,IGMPv3,54,Membership Report / Join group 239.255.255.250 for any sources
